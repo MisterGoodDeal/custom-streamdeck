@@ -56,7 +56,9 @@ The keycaps has been printed with the [Elegoo Mars 2 Pro](https://www.amazon.fr/
 
 > **Print settings**
 > Supports **NEEDED** on the stem key
+> 
 > The key must be printed on its back
+> 
 > Resolution : 0.05mm
 > 
  *LycheeSlicer file provided with everything already set*
