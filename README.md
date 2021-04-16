@@ -17,13 +17,21 @@
  2. The front face that can be found une the `Front face` folder.
  > **Print Settings :** 
 > Layer height : 0.2mm
+> 
 > Infill : 10%
+> 
 > Nozzle temperature : 200°C (392°F)
+> 
 > Bed temperature : 60°C (140°F)
+> 
 > Support : Yes
+> 
 > Adhesion: Yes
+> 
 > Skirt/Brim speed : 75mm/s 
+> 
 > Print Speed : 50mm/s
+> 
 > Initial layer speed : 25mm/s
 
 ## Parts
