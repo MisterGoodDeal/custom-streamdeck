@@ -41,7 +41,10 @@ void loop(){
   char customKey = customKeypad.getKey();
   if (customKey){
         Serial.println(customKey);
-        switch(customKey) {
+        Keyboard.press(customKey);
+        delay(20);
+        Keyboard.releaseAll();
+        /*switch(customKey) {
           case 'A':
             pressKeys(KEY_LEFT_SHIFT, KEY_F1);
             break;
@@ -102,7 +105,7 @@ void loop(){
           case 'T':
             pressKeys(KEY_RIGHT_ALT, KEY_F10);
             break;
-        }
+        }*/
   }
 }
 
