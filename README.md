@@ -6,12 +6,19 @@
  1. The body that can be found in the `Body` folder.
 > **Print Settings :** 
 > Layer height : 0.2mm
+> 
 > Infill : 10%
+> 
 > Nozzle temperature : 200°C (392°F)
+> 
 > Bed temperature : 60°C (140°F)
+> 
 > Support : Yes
+> 
 > Adhesion: No
+> 
 > Print Speed : 50mm/s (up to 120% speed)
+> 
 > Initial layer speed : 20mm/s
 
  2. The front face that can be found une the `Front face` folder.
