@@ -57,6 +57,11 @@ For this project you'll need some hardware :
 ## Arduino code
 The code can be found in the folder `custom_stream_deck_arduino` and you need to install the library `Keypad` that can be found in the folder `custom_stream_deck_arduino\Keypad` that you need to put in the folder `C:\Users\{YOUR_USERNAME}\Documents\Arduino\libraries`
 
+**Update 18/04/2021**
+There is a version 2 of the code that can be found in the folder `custom_stream_deck_arduino_v2`. This version allow you to switch between 2 modes : 
+1. The mode 1 is emulating key presses from A to T (AZERTY layout) so you can use the custom Streamdeck with [HID Macro](http://www.hidmacros.eu/) for example.
+2. The mode 2 is pressing keys from F1 to F10 with LeftCtrl key pushed and LeftShift key if the keycode is odd and LeftAlt if it's not. So you can use it as normal shortcuts
+
 ## Custom keycaps
 Some custom keycaps can be found in the folder `Custom keycaps`.
 The keycaps has been printed with the [Elegoo Mars 2 Pro](https://www.amazon.fr/ELEGOO-Imprimante-Monochrome-dimpression-6-30inch/dp/B08F7M578H), a SLA resin printer
